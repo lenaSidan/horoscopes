@@ -1,1 +1,28 @@
-
+{
+   "horoscopes":[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "description": "mit würziger Tomatensauce und Käse",
+    "size": "small",
+    "price": 6.5,
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "name": "Margherita",
+    "description": "mit würziger Tomatensauce und Käse",
+    "size": "middle",
+    "price": 9.5,
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "name": "Margherita",
+    "description": "mit würziger Tomatensauce und Käse",
+    "size": "family",
+    "price": 16.5,
+    "deleted": false
+  }
+]
+}
